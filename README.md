@@ -7,7 +7,7 @@ It includes a custom testing workbench which will help you to present your model
 ## Demo
 https://atri-apps.github.io/portfolio-templates/
 
-## How to use?
+## How to use this app?
 
 ### Step 1: Setup
 
