@@ -4,10 +4,10 @@ This is a skeleton repositery for Software Developers or Machine Learning Engine
 
 It includes a custom testing workbench which will help you to present your model in an impressive and userfriendly way. 
 
-# Demo
+## Demo
 https://atri-apps.github.io/portfolio-templates/
 
-# How to use?
+## How to use?
 
 ### Step 1: Setup
 
